@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Евгений](https://up.htmlacademy.ru/htmlcss/16/user/160638).
+* Студент: [Евгений Иванов](https://up.htmlacademy.ru/htmlcss/16/user/160638).
 * Наставник: `Неизвестно`.
 
 ---
